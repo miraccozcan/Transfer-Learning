@@ -8,7 +8,7 @@
 ---
 
 ## 2. One YouTube video
-- [Transfer Learning - DeepLearningAI](https://www.youtube.com/watch?v=yofjFQddwHE&t=24s&ab_channel=DeepLearningAI)
+[Transfer Learning - DeepLearningAI](https://www.youtube.com/watch?v=yofjFQddwHE&t=24s&ab_channel=DeepLearningAI)
 
 ---
 
